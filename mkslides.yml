@@ -1,0 +1,11 @@
+index:
+    title: My Presentation Index
+slides:
+    theme: black
+    highlight_theme: monokai
+revealjs:
+    height: 1080
+    width: 1920
+    transition: fade
+    plugins:
+        - math
