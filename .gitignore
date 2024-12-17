@@ -1,0 +1,13 @@
+# Ignore all markdown files in markdown_files except ScrollVoice1.md
+markdown_files/*.md
+!markdown_files/ScrollVoice1.md
+
+# Ignore system files
+.DS_Store
+__pycache__/
+*.pyc
+
+# Keep only the current version
+markdown_files/ScrollPitch*.md
+markdown_files/background*.md
+markdown_files/github.md
